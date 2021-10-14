@@ -1,5 +1,4 @@
 export default class NotificationMessage {
-<<<<<<< Updated upstream
     static activeNotification;
 
     element;
@@ -64,7 +63,4 @@ export default class NotificationMessage {
       this.element = null;
       NotificationMessage.activeNotification = null;
     }
-=======
-
->>>>>>> Stashed changes
 }
