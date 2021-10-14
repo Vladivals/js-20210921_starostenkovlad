@@ -111,6 +111,7 @@ export default class SortableTable {
       }
     });
   }
+  
 
   getSubElements(element) {
     const result = {};
